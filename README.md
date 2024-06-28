@@ -1,3 +1,3 @@
 # nmap-dirsearch-crtsh
 
-This Bash script is designed for conducting reconnaissance on a specified domain using popular tools, nmap, dirsearch, crtsh. It allows for flexible scanning options and organizes results into a dedicated directory.
+This bash script is designed to perform reconnaissance tasks on a specified domain. The tool offers multiple scanning options including nmap, dirsearch, crt.sh, or a combination of all three. It organizes the results into a structured directory for easy access and further analysis.
